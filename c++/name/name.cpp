@@ -10,6 +10,6 @@ int hello() {
 }
 
 int main() {
- cout << "My first C++ Program!";
+ cout << "Hello World!";
  hello();
 }
