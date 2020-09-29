@@ -1,3 +1,9 @@
+// ---
+// File name: name.cpp
+// Note: This file may contain errors and bugs. Do not use it on production
+// Creator: Igor Kowalczyk
+// ---
+
 #include <iostream>
 #include <conio.h> 
 using namespace std;
