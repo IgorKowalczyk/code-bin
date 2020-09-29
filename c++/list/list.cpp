@@ -8,11 +8,13 @@
 using namespace std;
 
 int main() {
- int a;
+ int a, b;
  cout << "Podaj jakas liczbe: ";
  cin >> a;
  for(int i = 0; i<=a ; i++) {
   cout << "Liczba: " << i << "\n";
  }
  cout << "Wyswietlono wszystkie liczby!";
+ cout << "\n Teraz podaj 2 liczbe: ";
+ cin >> b;
 }
