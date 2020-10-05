@@ -3,18 +3,18 @@
  * Database `majodb`
  */
 
-/* `majodb`.`klient` */
-$klient = array(
-  array('ID Klienta' => '1','Imie' => 'Jan','Nazwisko' => 'Nowak','Ulica' => 'Główna','Numer' => '20'),
-  array('ID Klienta' => '2','Imie' => 'Marcin','Nazwisko' => 'Kowalski','Ulica' => 'Szkolna','Numer' => '40')
+/* `majodb`.`client` */
+$client = array(
+  array('Client_ID' => '1','Name' => 'Jan','Surname' => 'Nowak','Street' => 'Główna','Street_Number' => '20'),
+  array('Client_ID' => '2','Name' => 'Marcin','Surname' => 'Kowalski','Street' => 'Szkolna','Street_Number' => '40')
+);
+
+/* `majodb`.`order` */
+$order = array(
 );
 
 /* `majodb`.`pizza` */
 $pizza = array(
-  array('ID Klienta' => '1','Pizza' => 'Peperoni','Rozmiar' => 'Xl','Cena' => '20'),
-  array('ID Klienta' => '2','Pizza' => 'Margarita','Rozmiar' => 'L','Cena' => '15')
-);
-
-/* `majodb`.`zamówienia` */
-$zamówienia = array(
+  array('Client_ID' => '1','Pizza' => 'Peperoni','Size' => 'Xl','Prize' => '20'),
+  array('Client_ID' => '2','Pizza' => 'Margarita','Size' => 'L','Prize' => '15')
 );
