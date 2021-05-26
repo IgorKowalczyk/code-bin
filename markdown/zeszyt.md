@@ -225,3 +225,7 @@ Dobierając kolory na stronę internetową uzyc mozna klasycznych regl kolorysty
  - Dopelniajace rozbite czyli trzy kolory kontrastujace ze soba
  - Triada czyli trzy kolory w równej odleglosci od siebie na kole kolorów
  - Tworzace kwadrat czyli kolory znajdujace sie po czterech bokach kola kolorów
+
+
+# Dobór czcionek na strone internetowa
+
