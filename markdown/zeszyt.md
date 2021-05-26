@@ -215,3 +215,13 @@ text-decoration: line-through;
 # Projekt strony internetowej
 
 Briefing strony internetowej jest dokumentem zbierającym analizy, założenia techniczne, wymagania uzytkownikow oraz wylczenia finansowe dotyczace projektowanej witryny.
+
+# Dobór kolorów na stronie internetowej
+
+Dobierając kolory na stronę internetową uzyc mozna klasycznych regl kolorystycznch opartych na tkz. kol kolorów. yróżnic mozna następujace regly
+ - Dopelniajace czyli kolory kontrastujace ze ssoba leza po przeciwnych kola kolorów
+ - Analogowe czyli kolory sasiadujace ze soba
+ - Monochromatyczne czyli reprezentuja odcienie jednego koloru
+ - Dopelniajace rozbite czyli trzy kolory kontrastujace ze soba
+ - Triada czyli trzy kolory w równej odleglosci od siebie na kole kolorów
+ - Tworzace kwadrat czyli kolory znajdujace sie po czterech bokach kola kolorów
