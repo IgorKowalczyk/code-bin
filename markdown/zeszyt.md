@@ -211,11 +211,12 @@ text-decoration: line-through;
 <a href="#top" id="end">Początek</a>
 ```
 
-
+### Lekcja
 # Projekt strony internetowej
 
 Briefing strony internetowej jest dokumentem zbierającym analizy, założenia techniczne, wymagania uzytkownikow oraz wylczenia finansowe dotyczace projektowanej witryny.
 
+### Lekcja
 # Dobór kolorów na stronie internetowej
 
 Dobierając kolory na stronę internetową uzyc mozna klasycznych regl kolorystycznch opartych na tkz. kol kolorów. yróżnic mozna następujace regly
@@ -226,6 +227,9 @@ Dobierając kolory na stronę internetową uzyc mozna klasycznych regl kolorysty
  - Triada czyli trzy kolory w równej odleglosci od siebie na kole kolorów
  - Tworzace kwadrat czyli kolory znajdujace sie po czterech bokach kola kolorów
 
-
+### Lekcja
 # Dobór czcionek na strone internetowa
+
+
+# Animacja na stronie internetowej
 
