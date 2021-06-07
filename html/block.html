@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8" />
+  <title>Przeksztalcenie bloku</title>
+ </head>
+ <body>
+  <style>
+   .blok1 {
+    background-color: red;
+   }
+   .blok2 {
+    background-color: blue;
+    transform: skew(20deg);
+   }
+   .blok3 {
+    background-color: blue;
+    transform: rotate(45deg);
+   }
+
+   .blok4 {
+    background-color: burlywood;
+    animation: rotate infinite;
+    animation-duration: 5s;
+   }
+
+   @keyframes rotate {
+    0% {
+     transform: rotate(0);
+    }
+    100% {
+     transform: rotate(360deg);
+    }
+   }
+
+   .blok5 {
+    transform: scale(1.5);
+    background-color: #5865f2;
+   }
+   div {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+    float: left;
+   }
+  </style>
+
+  <div class="blok1">Blok 1</div>
+  <div class="blok2">Blok 2</div>
+  <div class="blok3">Blok 3</div>
+  <div class="blok4">Blok 4</div>
+  <div class="blok5">Blok 5</div>
+ </body>
+</html>

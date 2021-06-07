@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pl_PL">
+ <head>
+  <title>.</title>
+  <meta charset="UTF-8" />
+ </head>
+ <body>
+  <style>
+   .div1 {
+    background-color: green;
+   }
+
+   .div2 {
+    background-color: yellow;
+   }
+
+   .div3 {
+    background-color: red;
+   }
+
+   .div4 {
+    background-color: peru;
+   }
+
+   div {
+    width: 120px;
+    height: 60px;
+    padding: 15px;
+   }
+   p {
+    transition: 500ms all;
+   }
+   .grid {
+    display: grid;
+    grid-template-columns: 120px 120px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+   }
+
+   div:hover p {
+    transform: scale(1.1);
+   }
+  </style>
+  <section class="grid">
+   <div class="div1"><p>1</p></div>
+   <div class="div2"><p>2</p></div>
+   <div class="div3"><p>3</p></div>
+   <div class="div4"><p>4</p></div>
+  </section>
+ </body>
+</html>
