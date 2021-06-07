@@ -1,0 +1,22 @@
+{
+ "name": "igorkowalczyk-bin",
+ "version": "0.0.3",
+ "description": "My files bin",
+ "scripts": {
+  "format": "prettier --write . --ignore-unknown",
+  "format:check": "prettier --check ."
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/igorkowalczyk/bin.git"
+ },
+ "author": "Igor Kowalczyk",
+ "license": "MIT",
+ "bugs": {
+  "url": "https://github.com/igorkowalczyk/bin/issues"
+ },
+ "homepage": "https://github.com/igorkowalczyk/bin",
+ "devDependencies": {
+  "prettier": "^2.0.5"
+ }
+}
