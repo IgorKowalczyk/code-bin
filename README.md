@@ -6,4 +6,5 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/igorkowalczyk/bin?style=flat-square)
 ![GitHub top language](https://img.shields.io/github/languages/top/igorkowalczyk/bin?style=flat-square)
 
-> I use this repo to store files when I don't want to delete but i want to keep it. I store some of my files here to don't waste my home drive.
+> I use this repo to store files when I don't want to delete but i want to keep it lfmao. I store some of my files here to don't waste my home drive.
+> 
